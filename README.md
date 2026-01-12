@@ -2,7 +2,7 @@
 
 > ✨ A firework show plugin for AllayMC servers
 
-[![Allay API](https://img.shields.io/badge/Allay%20API-0.2.1-blue)](https://github.com/AllayMC/Allay)
+[![Allay API](https://img.shields.io/badge/Allay%20API-0.21.0-blue)](https://github.com/AllayMC/Allay)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## 📖 Introduction
