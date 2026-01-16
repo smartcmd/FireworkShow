@@ -1,7 +1,7 @@
 package me.daoge.fireworkshow;
 
 import org.allaymc.api.utils.DyeColor;
-import org.allaymc.api.world.FireworkExplosion;
+import org.allaymc.api.world.explosion.FireworkExplosion;
 import org.allaymc.api.world.data.FireworkType;
 
 import java.util.ArrayList;

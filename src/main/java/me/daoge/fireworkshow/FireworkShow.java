@@ -11,7 +11,7 @@ import org.allaymc.api.utils.DyeColor;
 import org.allaymc.api.utils.config.Config;
 import org.allaymc.api.utils.config.ConfigSection;
 import org.allaymc.api.world.Dimension;
-import org.allaymc.api.world.FireworkExplosion;
+import org.allaymc.api.world.explosion.FireworkExplosion;
 import org.allaymc.api.world.World;
 import org.allaymc.api.world.data.FireworkType;
 import org.joml.Vector3d;

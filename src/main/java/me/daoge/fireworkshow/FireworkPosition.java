@@ -2,7 +2,7 @@ package me.daoge.fireworkshow;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.allaymc.api.world.FireworkExplosion;
+import org.allaymc.api.world.explosion.FireworkExplosion;
 import org.joml.Vector3d;
 
 import java.util.ArrayList;

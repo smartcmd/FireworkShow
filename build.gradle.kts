@@ -5,7 +5,7 @@ plugins {
 
 group = "me.daoge.fireworkshow"
 description = "Firework show for AllayMC"
-version = "0.1.0"
+version = "0.2.0"
 
 java {
     toolchain {
@@ -14,7 +14,7 @@ java {
 }
 
 allay {
-    api = "0.21.0"
+    api = "0.22.0"
 
     plugin {
         entrance = ".FireworkShow"

@@ -5,7 +5,7 @@ import org.allaymc.api.form.Forms;
 import org.allaymc.api.message.I18n;
 import org.allaymc.api.player.Player;
 import org.allaymc.api.utils.DyeColor;
-import org.allaymc.api.world.FireworkExplosion;
+import org.allaymc.api.world.explosion.FireworkExplosion;
 import org.allaymc.api.world.data.FireworkType;
 import org.joml.Vector3d;
 
